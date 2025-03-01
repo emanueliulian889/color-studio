@@ -17,7 +17,7 @@ const Header = () => {
           >
             <PaletteIcon />
           </Avatar>
-          <Typography variant="h6" noWrap sx={{ fontWeight: 'bold', display: { xs: 'none', sm: 'block' } }}>
+          <Typography variant="h6" noWrap sx={{ fontWeight: 'bold', display: { xs: 'none', sm: 'block' }, color: 'black' }}>
             Color Studio
           </Typography>
         </Box>
