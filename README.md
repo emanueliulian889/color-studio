@@ -1,7 +1,6 @@
 # Color Studio - Feature Summary
 
 ## Core Features
-
   ### 1. Interactive Color Palette Generator
     - Five equal-width color columns spanning the full height of the screen
     - Spacebar triggers random color palette generation
