@@ -69,27 +69,27 @@
 
 # Structure
 
-src/
-├── components/
-│   ├── layout/
-│   │   ├── Header.js         - App header with logo
-│   │   ├── HeroSection.js    - Hero section with title, subtitle, search, and category chips
-│   │   └── SpacebarPrompt.js - Spacebar instruction section
-│   ├── ui/
-│   │   ├── CategoryChips.js  - Category filter chips
-│   │   ├── ColorColumn.js    - Individual color column with shades display
-│   │   ├── ColorControls.js  - Central control panel with icons
-│   │   ├── EmptyState.js     - Empty state when no colors match search
-│   │   ├── LockButtons.js    - Lock buttons for each color
-│   │   └── SearchInput.js    - Search input component
-│   └── ColorPalette.js       - Main color palette display
-├── constants/
-│   ├── categories.js         - Category definitions
-│   └── colorLibrary.js       - Color library with names and categories
-├── hooks/
-│   └── useColorManagement.js - Custom hook for color state and logic
-├── pages/
-│   └── Home.js               - Main page component
-├── styles/                   - For future CSS/style modules
-└── utils/
-    └── colorUtils.js         - Utility functions for color manipulation
+### src/
+### ├── components/
+### │   ├── layout/
+### │   │   ├── Header.js         - App header with logo
+### │   │   ├── HeroSection.js    - Hero section with title, subtitle, search, and category chips
+### │   │   └── SpacebarPrompt.js - Spacebar instruction section
+### │   ├── ui/
+### │   │   ├── CategoryChips.js  - Category filter chips
+### │   │   ├── ColorColumn.js    - Individual color column with shades display
+### │   │   ├── ColorControls.js  - Central control panel with icons
+### │   │   ├── EmptyState.js     - Empty state when no colors match search
+### │   │   ├── LockButtons.js    - Lock buttons for each color
+### │   │   └── SearchInput.js    - Search input component
+### │   └── ColorPalette.js       - Main color palette display
+### ├── constants/
+### │   ├── categories.js         - Category definitions
+### │   └── colorLibrary.js       - Color library with names and categories
+### ├── hooks/
+### │   └── useColorManagement.js - Custom hook for color state and logic
+### ├── pages/
+### │   └── Home.js               - Main page component
+### ├── styles/                   - For future CSS/style modules
+### └── utils/
+###     └── colorUtils.js         - Utility functions for color manipulation
