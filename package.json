@@ -21,7 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -41,10 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://emanueliulian889.github.io/color-studio",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "build": "react-scripts build"
-  }
+  "homepage": "https://emanueliulian889.github.io/color-studio"
 }
