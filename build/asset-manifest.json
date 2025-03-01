@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-studio/static/css/main.96749384.css",
+    "main.js": "/color-studio/static/js/main.c2919ed7.js",
+    "static/js/453.01a492f4.chunk.js": "/color-studio/static/js/453.01a492f4.chunk.js",
+    "index.html": "/color-studio/index.html",
+    "main.96749384.css.map": "/color-studio/static/css/main.96749384.css.map",
+    "main.c2919ed7.js.map": "/color-studio/static/js/main.c2919ed7.js.map",
+    "453.01a492f4.chunk.js.map": "/color-studio/static/js/453.01a492f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96749384.css",
+    "static/js/main.c2919ed7.js"
+  ]
+}
