@@ -1,17 +1,17 @@
 # Color Studio - Feature Summary
 
 ## Core Features
-  ### 1. Interactive Color Palette Generator
+  ## 1. Interactive Color Palette Generator
     - Five equal-width color columns spanning the full height of the screen
     - Spacebar triggers random color palette generation
     - Color hex codes and names displayed at the bottom of each column
     - Balanced palette generation with 3 dark colors, 1 neutral, and 1 accent color
-  ### 2. Lock System
+  ## 2. Lock System
     - Lock buttons at the top of each column
     - Locked colors remain unchanged when generating new palettes
     - Adaptive icon colors based on contrast ratios
     - Semi-transparent background for better visibility
-  ### 3. Color Interaction
+  ## 3. Color Interaction
     - On-hover control panels for each color column
     - Copy current color functionality
     - Copy all palette colors option
